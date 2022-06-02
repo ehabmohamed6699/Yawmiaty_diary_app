@@ -1,0 +1,7 @@
+create or replace PROCEDURE GETNONTES (day in date, notes out sys_refcursor) AS
+BEGIN
+  open notes for
+  select *
+  from notes
+  where day_id = day;
+END;

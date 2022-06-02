@@ -1,0 +1,6 @@
+create or replace procedure getMaxId (maxId out number) as
+begin
+  select max(ID)
+  into maxId
+  from todo;
+end;

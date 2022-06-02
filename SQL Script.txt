@@ -1,0 +1,90 @@
+drop table jokes cascade constraints;
+drop table days cascade constraints;
+drop table notes cascade constraints;
+drop table todo cascade constraints;
+drop table events cascade constraints;
+drop table routines cascade constraints;
+
+
+Create Table jokes(
+	id number(10) primary key, 
+	text varchar2(2000) not null
+);
+Create Table routines(
+	id number(10) primary key, 
+	text varchar2(2000)
+);
+Create Table days(
+	day_date date primary key, 
+	routine_id number (10) references routines (id)
+);
+Create Table notes(
+	id number(10) primary key, 
+	day_id date references days (day_date),
+	priority number (1),
+	rate number (1),
+	favourite number (1),
+	text varchar2(4000)
+);
+Create Table events(
+	id number(10) primary key, 
+	day_id date references days (day_date),
+	name varchar2(2000)
+);
+Create Table todo (
+	id number(10), 
+	day_id date references days (day_date),
+	CONSTRAINT todo_pk PRIMARY KEY(id , day_id),
+	task varchar2(2000),
+  CHECKED NUMBER (1)
+);
+
+INSERT INTO jokes VALUES (0,'My life.');
+INSERT INTO jokes VALUES (1,'We live in a society.');
+INSERT INTO jokes VALUES (2,'Why What’s the best thing about Switzerland? I don’t know, but the flag is a big plus.');
+INSERT INTO jokes VALUES (3,'Hear about the new restaurant called Karma? There’s no menu: You get what **** you deserve.');
+INSERT INTO jokes VALUES (4,'Did you hear about the claustrophobic astronaut? He just needed a little space.');
+INSERT INTO jokes VALUES (5,'This is a joke place holder, Replace with a joke please.');
+INSERT INTO jokes VALUES (6,'This sentense is supposed to be funny, laugh please');
+INSERT INTO jokes VALUES (7,'if this is the second joke line you see, sorry about the rest of them.');
+
+INSERT INTO routines VALUES (0,'no routine');
+INSERT INTO routines VALUES (1,'brush teeth-go for a walk-play basketball-walk the dog');
+INSERT INTO routines VALUES (2,'take a shower-play with the cat-play football-meet friends');
+INSERT INTO routines VALUES (3,'take a shower-workout-have breakfast-go to school');
+INSERT INTO routines VALUES (4,'take a shower-workout-walk the dog-call my colleagues');
+INSERT INTO routines VALUES (5,'brush teeth-go for run-buy a snack-watch a movie');
+
+INSERT INTO days VALUES (DATE '2022-5-1',0);
+INSERT INTO days VALUES (DATE '2022-5-2',4);
+INSERT INTO days VALUES (DATE '2022-5-3',4);
+INSERT INTO days VALUES (DATE '2022-5-4',4);
+INSERT INTO days VALUES (DATE '2022-5-5',2);
+INSERT INTO days VALUES (DATE '2022-5-6',5);
+
+INSERT INTO notes VALUES (0,DATE '2022-5-1',5 ,1 ,1 ,'go to university');
+INSERT INTO notes VALUES (1,DATE '2022-5-2',2 ,5 ,1 ,'eat dinner with a friend');
+INSERT INTO notes VALUES (2,DATE '2022-5-3',4 ,4 ,1 ,'eat dinner with a friend');
+INSERT INTO notes VALUES (3,DATE '2022-5-3',5 ,0 ,0 ,'driver licence test');
+INSERT INTO notes VALUES (4,DATE '2022-5-4',1 ,4 ,0 ,'watch a movie');
+INSERT INTO notes VALUES (5,DATE '2022-5-5',1 ,3 ,0 ,'watch a movie');
+INSERT INTO notes VALUES (6,DATE '2022-5-5',5 ,1 ,1 ,'car repair :(');
+INSERT INTO notes VALUES (7,DATE '2022-5-6',5 ,5 ,1 ,'give me my baby (car) back');
+
+INSERT INTO events VALUES (0,DATE '2022-5-2','Eid Fitr');
+INSERT INTO events VALUES (1,DATE '2022-5-3','Eid Fitr');
+INSERT INTO events VALUES (2,DATE '2022-5-4','Eid Fitr');
+INSERT INTO events VALUES (3,DATE '2022-5-5','Eid Fitr');
+INSERT INTO events VALUES (4,DATE '2022-5-6','eiffel tower was made public for people to visit');
+
+INSERT INTO todo VALUES (0,DATE '2022-5-1','do math homework',0);
+INSERT INTO todo VALUES (1,DATE '2022-5-1','visit grandma',0);
+INSERT INTO todo VALUES (2,DATE '2022-5-1','call my friends',0);
+INSERT INTO todo VALUES (3,DATE '2022-5-3','Assignment 5000 Algorithms due date',0);
+INSERT INTO todo VALUES (4,DATE '2022-5-4','make it throw the day',0);
+INSERT INTO todo VALUES (5,DATE '2022-5-6','run a mile',0);
+INSERT INTO todo VALUES (6,DATE '2022-5-5','visit grandma',1);
+INSERT INTO todo VALUES (7,DATE '2022-5-5','call my friends',0);
+
+
+commit;

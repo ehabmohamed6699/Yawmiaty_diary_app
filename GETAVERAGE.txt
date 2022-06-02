@@ -1,0 +1,7 @@
+create or replace PROCEDURE GETAVGRATE (day in date,avgRate out number) as
+begin
+  select avg(rate)
+  into avgRate
+  from notes
+  where day_id = day;
+END;

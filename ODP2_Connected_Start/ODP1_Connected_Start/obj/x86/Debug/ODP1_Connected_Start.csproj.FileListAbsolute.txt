@@ -1,0 +1,56 @@
+C:\Documents and Settings\Administrator\Desktop\ODP1_Connected_Start\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\ODP1_Connected_Start.exe
+C:\Documents and Settings\Administrator\Desktop\ODP1_Connected_Start\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\ODP1_Connected_Start.pdb
+C:\Documents and Settings\Administrator\Desktop\ODP1_Connected_Start\ODP1_Connected_Start\ODP1_Connected_Start\bin\Debug\Oracle.DataAccess.dll
+C:\Documents and Settings\Administrator\Desktop\ODP1_Connected_Start\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\ODP1_Connected_Start\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.ActorsForm.resources
+C:\Documents and Settings\Administrator\Desktop\ODP1_Connected_Start\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\ODP1_Connected_Start\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\ODP1_Connected_Start\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Desktop\ODP1_Connected_Start\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.exe
+C:\Documents and Settings\Administrator\Desktop\ODP1_Connected_Start\ODP1_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.pdb
+D:\New\TA materials\2020\second term\db\labs\lab2\ODP2_Connected_Start\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.exe
+D:\New\TA materials\2020\second term\db\labs\lab2\ODP2_Connected_Start\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.pdb
+D:\semester 6\software engineering\sec\Lab 2\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\ODP1_Connected_Start.exe.config
+D:\semester 6\software engineering\sec\Lab 2\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\ODP1_Connected_Start.exe
+D:\semester 6\software engineering\sec\Lab 2\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\ODP1_Connected_Start.pdb
+D:\semester 6\software engineering\sec\Lab 2\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.csproj.AssemblyReference.cache
+D:\semester 6\software engineering\sec\Lab 2\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.csproj.SuggestedBindingRedirects.cache
+D:\semester 6\software engineering\sec\Lab 2\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.ActorsForm.resources
+D:\semester 6\software engineering\sec\Lab 2\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.Properties.Resources.resources
+D:\semester 6\software engineering\sec\Lab 2\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.csproj.GenerateResource.cache
+D:\semester 6\software engineering\sec\Lab 2\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.csproj.CoreCompileInputs.cache
+D:\semester 6\software engineering\sec\Lab 2\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.exe
+D:\semester 6\software engineering\sec\Lab 2\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.pdb
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\ODP1_Connected_Start.exe.config
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\ODP1_Connected_Start.exe
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\ODP1_Connected_Start.pdb
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.EventsForm.resources
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.Properties.Resources.resources
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.csproj.GenerateResource.cache
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.csproj.CoreCompileInputs.cache
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.exe
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.pdb
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.csproj.AssemblyReference.cache
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.Shared.dll
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\ShockwaveFlashObjects.dll
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\stdole.dll
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.RateReport.resources
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.csproj.CopyComplete
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.EventsReport.resources
+D:\Material\Software\ODP2_Connected_Start\ODP1_Connected_Start\obj\x86\Debug\ODP1_Connected_Start.Yawmiaty.resources

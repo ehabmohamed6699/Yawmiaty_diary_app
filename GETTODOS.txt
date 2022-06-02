@@ -1,0 +1,7 @@
+create or replace PROCEDURE GETTODOS (day in date, todos out sys_refcursor) AS
+BEGIN
+  open todos for
+  select Task, Checked, ID
+  from todo
+  where day_id = day;
+END; 
